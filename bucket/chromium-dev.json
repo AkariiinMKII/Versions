@@ -1,12 +1,12 @@
 {
-    "version": "151.0.7899.0-r1648919",
+    "version": "151.0.7900.0-r1649012",
     "description": "An open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
     "homepage": "https://www.chromium.org",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1648919/chrome-win.zip",
-            "hash": "f5ade46a55812cdc89e413574f9bc0db87365c799cba98fb238fd6927beae280"
+            "url": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1649012/chrome-win.zip",
+            "hash": "2006a0e73d0ab53e3029f9a5a4bd7569977f365fd14ea254ff347c318335e195"
         }
     },
     "extract_dir": "chrome-win",
